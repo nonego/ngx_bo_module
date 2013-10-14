@@ -1,0 +1,4 @@
+[BO]
+content_type=text/html; charset=utf8
+profile_file=/home/qing.guojq/nginx/test.dat
+profile_fields=login_id first_name
